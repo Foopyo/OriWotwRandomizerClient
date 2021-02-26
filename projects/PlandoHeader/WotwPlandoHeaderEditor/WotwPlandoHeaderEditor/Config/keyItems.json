@@ -1,0 +1,29 @@
+[
+	{ "Name":"Bash", "Adress":"2|0"},
+	{ "Name":"Wall Jump", "Adress":"2|3"},
+	{ "Name":"Double Jump", "Adress":"2|5"},
+	{ "Name":"Launch", "Adress":"2|8"},
+	{ "Name":"Magnet (skill)", "Adress":"2|9"},
+    { "Name":"Glide", "Adress":"2|14"},
+    { "Name":"Spirit Flame", "Adress":"2|15"},
+    { "Name":"Water Breath", "Adress":"2|23"},
+    { "Name":"Light Burst", "Adress":"2|51"},
+    { "Name":"Grapple", "Adress":"2|57"},
+    { "Name":"Flash", "Adress":"2|62"},
+    { "Name":"Spike", "Adress":"2|74"},
+    { "Name":"Regenerate", "Adress":"2|77"},
+    { "Name":"Bow", "Adress":"2|97"},
+    { "Name":"Hammer", "Adress":"2|98"},
+    { "Name":"Sword", "Adress":"2|100"},
+    { "Name":"Burrow", "Adress":"2|101"},
+    { "Name":"Dash", "Adress":"2|102"},
+    { "Name":"Water Dash", "Adress":"2|104"},
+    { "Name":"Shuriken", "Adress":"2|106"}
+    { "Name":"Seir", "Adress":"2|108"}
+    { "Name":"Bow Charge", "Adress":"2|109"}
+    { "Name":"Hammer Charge", "Adress":"2|114"}
+    { "Name":"Blaze", "Adress":"2|115"},
+    { "Name":"Sentry", "Adress":"2|116"},
+    { "Name":"Flap", "Adress":"2|118"},
+	{ "Name":"Clean Water", "Adress":"9|0"},
+]

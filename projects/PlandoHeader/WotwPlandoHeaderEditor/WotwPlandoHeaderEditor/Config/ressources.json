@@ -1,0 +1,7 @@
+[
+	{ "Name":"Health fragment", "Adress":"1|0"},
+	{ "Name":"Energy fragment", "Adress":"1|1"},
+	{ "Name":"Gorlek Ore", "Adress":"1|2"},
+	{ "Name":"Keystone", "Adress":"1|3"},
+	{ "Name":"Shard Slot", "Adress":"1|4"},
+]

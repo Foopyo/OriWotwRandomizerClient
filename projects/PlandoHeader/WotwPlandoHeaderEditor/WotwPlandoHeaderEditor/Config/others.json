@@ -1,0 +1,17 @@
+[
+	{ "Name":"Relic", "Adress":"10|20" },
+	{ "Name":"Health Regen", "Adress":"10|30" },
+	{ "Name":"Energy Regen", "Adress":"10|31" },
+	{ "Name":"Extra Double Jump", "Adress":"10|35" },
+	{ "Name":"Extra Air Dash", "Adress":"10|36" },
+	{ "Name":"Rapid Hammer", "Adress":"11|0" },
+	{ "Name":"Rapid Sword", "Adress":"11|1" },
+	{ "Name":"Blaze Efficiency", "Adress":"11|2" },
+	{ "Name":"Spike Efficiency", "Adress":"11|3" },
+	{ "Name":"Shuriken Efficiency", "Adress":"11|4" },
+	{ "Name":"Sentry Efficiency", "Adress":"11|5" },
+	{ "Name":"Bow Efficiency", "Adress":"11|6" },
+	{ "Name":"Regeneration Efficiency", "Adress":"11|7" },
+	{ "Name":"Flash Efficiency", "Adress":"11|8" },
+	{ "Name":"Grenade Efficiency", "Adress":"11|9" }
+]

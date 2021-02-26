@@ -1,0 +1,15 @@
+[
+	{ "Name":"Marsh Zone Hint", "Adress":"12|0" },
+	{ "Name":"Hollow Zone Hint", "Adress":"12|1" },
+	{ "Name":"Glades Zpne Hint", "Adress":"12|2" },
+	{ "Name":"Wellspring Zone Hint", "Adress":"12|3" },
+	{ "Name":"Pools Zone Hint", "Adress":"12|4" },
+	{ "Name":"Burrows Zone Hint", "Adress":"12|5" },
+	{ "Name":"Reach Zone Hint", "Adress":"12|6" },
+	{ "Name":"Woods Zone Hint", "Adress":"12|7" },
+	{ "Name":"Depths Zone Hint", "Adress":"12|8" },
+	{ "Name":"Wastes Zone Hint", "Adress":"12|9" },
+	{ "Name":"Ruins Zone Hint", "Adress":"12|10" },
+	{ "Name":"Willow Zone Hint", "Adress":"12|11" },
+	{ "Name":"Void Zone Hint", "Adress":"12|12" },
+]
